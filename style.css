@@ -12,31 +12,29 @@ body {
 header {
     background-color: #168C40;
     border: 3px solid #10612c;
-    margin: 5px;
-    border-radius: 4px;
-    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.342);
 }
 
 nav {
+    background-color: #093b1b;
     font-weight: bold;
-    width: 620px;
+    text-align: center;
     margin: auto;
 }
 
 #menu {
-
     width: 340px;
     margin: auto;
 }
 
 a {
-    color: #730202;
+    color: #c50000;
 }
 
 nav > a {
     text-decoration: none;
-    margin-right: 60px;
-    font-size: 1.3em;
+    margin-right: 30px;
+    font-size: 1.2em;
+    padding: 10px;
 }
 
 #ultima {
@@ -51,8 +49,8 @@ main {
     background-color: #168C40;
     border: 3px solid #10612c;
     margin: 5px;
-    border-radius: 4px;
-    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.342);
+    margin: auto;
+    padding: 10px;
 }
 
 main p {
